@@ -2,8 +2,8 @@
 public class Runner {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.println("Hello! From Cameron Storm");
+		System.out.println("This is the new change!");
 	}
 
 }
